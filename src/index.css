@@ -1,3 +1,13 @@
 body {
-  background-color: #f8f9fa;
+  background-color: #1f8324;
+  color: antiquewhite;
+}
+
+form {
+  background-color: #2c2c2c !important;
+  color: #1f8324 !important;
+}
+
+.table {
+  background-color: aliceblue;
 }
