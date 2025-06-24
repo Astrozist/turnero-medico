@@ -10,7 +10,7 @@ const ESPECIALIDADES = {
   'Neumonología': ['Dr. Aguilar Marcelo']
 };
 
-const API_URL = 'https://666d9426f53957909ff79f1d.mockapi.io/api/turnos';
+const API_URL = 'https://68588aee138a18086dfb32a1.mockapi.io/turnos';
 
 function App() {
   const [especialidad, setEspecialidad] = useState('');
