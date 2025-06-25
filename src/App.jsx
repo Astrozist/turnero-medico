@@ -29,6 +29,7 @@ function App() {
     setEditandoTurnoId(null);
   }
 
+  // Fetch para enviar datos a la API
   useEffect(() => {
     fetch(API_URL)
       .then((respuesta) => respuesta.json())
