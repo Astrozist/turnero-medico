@@ -99,6 +99,8 @@ function App() {
   const medicosDisponibles = especialidad ? ESPECIALIDADES[especialidad] : [];
 
   return (
+
+    // Pàgina
     <div className="container mt-4">
       <h2>Turnos Médicos</h2>
 
